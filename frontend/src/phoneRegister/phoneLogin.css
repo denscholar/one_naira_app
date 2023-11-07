@@ -1,0 +1,15 @@
+.input_name_login{
+    width: 20rem;
+    margin: 0 auto;
+    height: 11rem;
+    padding: 2rem;
+    margin-top: 10rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.card-footer  button{
+    margin-top: 0.8rem;
+    float: right;
+    width: 100%;
+    font-size: 1rem;
+}
